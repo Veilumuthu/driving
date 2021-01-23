@@ -1,0 +1,26 @@
+/* input */
+.inpu{
+    margin-left: 2rem;
+    width: 500px;
+}
+
+
+/* button */
+.but{
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 40px;
+    width: 100px;
+    font-weight: 500;
+    color: black;
+}
+
+
+/* table */
+th{
+    padding: 0.5rem 2.7rem 0.5rem 2.7rem;
+}
+
+td{
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
