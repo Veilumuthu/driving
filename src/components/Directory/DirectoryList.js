@@ -6,7 +6,7 @@ import DirectoryFilter from "./DirectoryFilter";
 const DirectoryList = (props) => {
     return (
         <div>
-            <h2 className="text-center container">Directory List</h2>
+            <h2 className="text-center">Directory List</h2>
             <DirectoryFilter />
         </div>
     )
